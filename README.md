@@ -20,7 +20,7 @@ https://github.com/MURABOINARAJKUMAR/travelling-
 # Project Demo URL
 https://gentle-island-08ce0cd10.2.azurestaticapps.net
 # Project Demo Video URL
-
+https://youtu.be/sQGmYLh36C8
 # screen shorts of my project 
 <img width="916" alt="raja" src="https://user-images.githubusercontent.com/111359457/203795378-3ba9e3ed-5a15-4576-af68-92c59167e724.PNG">
 ![Uploa<img width="930" alt="d" src="https://user-images.githubusercontent.com/111359457/203796071-40d4920d-1060-4b4d-8477-5b412fa82868.PNG">
